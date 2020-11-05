@@ -1,0 +1,6 @@
+name: ffd-country-profiles
+channels:
+ - r
+ - conda-forge
+dependencies:
+ - r-base
