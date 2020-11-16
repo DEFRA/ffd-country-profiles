@@ -1,5 +1,5 @@
 # ffd-country-profiles
-## ffd-country-profiles overview
+## Project overview
 This is a shiny app project build to facilitate data analysis and reports to different stakeholders. <br/>
 Through the sniny app UI you can create custumised reports ready to download in word document format. 
 ## Project R environment / R path
