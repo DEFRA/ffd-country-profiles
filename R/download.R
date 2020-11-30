@@ -10,12 +10,12 @@ create_doc <- function(path = "app_reports/template.docx"){
   
   doc <- officer::read_docx() %>%
     body_add_par("Hello == SHINY ==  world!", style = "Normal")
-  print(doc, target = path)  
-  
+  #print(doc, target = path)  
+  return(doc)
 }
 
 
-downloadButton <- function(id, label="Download"){
+createReportButton <- function(id, label="Create Report"){
   ns <- NS(id)
   tagList(
     actionButton(ns("button"), label = label),
@@ -24,7 +24,7 @@ downloadButton <- function(id, label="Download"){
 }
 
 
-downloadServer <- function(id){
+createReportServer <- function(id){
   moduleServer(
     id,
     function(input, output, session){
@@ -34,3 +34,25 @@ downloadServer <- function(id){
   )
 }
 
+downloadReportButton <- function(id){
+  
+}
+
+
+# 
+# countriesSectionDD <- function(id, label = "Countries"){
+#   ns <- NS(id)
+#   selectInput(ns("dropdown"), label = label,
+#               choices = c("Spain", "UK", "USA", "France"))
+# }
+#   
+# countriesSelectionServer <- function(){}
+# 
+# downloadServer <- function(id){
+#   moduleServer(
+#     id,
+#     function(input, output, session){
+#       output$donwnloadReport <- downloadH
+#     }
+#  )
+#}
