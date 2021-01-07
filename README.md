@@ -25,6 +25,11 @@ In order to run this R project in your environment do:
 4.2 renv::restore()
 4.3 click run app
 for more information refer to: https://rstudio.github.io/renv/articles/renv.html 
+## Project structure
+## Project rationale
+## Data sources 
+## Manual extraction
+## Naming conventions
 
 ## Developer
 This product is created by Elia Borras  <br/>
