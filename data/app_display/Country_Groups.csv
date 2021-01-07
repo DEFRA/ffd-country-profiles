@@ -1,0 +1,95 @@
+country,country_group_full,country_group
+Austria,EU27,EU27
+Belgium,EU27,EU27
+Bulgaria,EU27,EU27
+Croatia,EU27,EU27
+Cyprus,EU27,EU27
+Czech Republic,EU27,EU27
+Denmark,EU27,EU27
+Estonia,EU27,EU27
+Finland,EU27,EU27
+France,EU27,EU27
+Germany,EU27,EU27
+Greece,EU27,EU27
+Hungary,EU27,EU27
+Irish Republic,EU27,EU27
+Italy,EU27,EU27
+Latvia,EU27,EU27
+Lithuania,EU27,EU27
+Luxembourg,EU27,EU27
+Malta,EU27,EU27
+Netherlands,EU27,EU27
+Poland,EU27,EU27
+Portugal,EU27,EU27
+Romania,EU27,EU27
+Slovakia,EU27,EU27
+Slovenia,EU27,EU27
+Spain,EU27,EU27
+Sweden,EU27,EU27
+Botswana,"SACU+M (Botswana, Lesotho, Mozambique, Namibia, South Africa, Eswatini)",SACU+M
+Lesotho,"SACU+M (Botswana, Lesotho, Mozambique, Namibia, South Africa, Eswatini)",SACU+M
+Mozambique,"SACU+M (Botswana, Lesotho, Mozambique, Namibia, South Africa, Eswatini)",SACU+M
+Namibia,"SACU+M (Botswana, Lesotho, Mozambique, Namibia, South Africa, Eswatini)",SACU+M
+South Africa,"SACU+M (Botswana, Lesotho, Mozambique, Namibia, South Africa, Eswatini)",SACU+M
+Eswatini,"SACU+M (Botswana, Lesotho, Mozambique, Namibia, South Africa, Eswatini)",SACU+M
+Benin,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Burkina,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Cape Verde,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Gambia,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Ghana,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Guinea,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Guinea-Bissau,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Ivory Coast,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Liberia,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Mauritania,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Mali,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Niger,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Nigeria,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Senegal,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Sierra Leone,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Togo,"West Africa EPA (Benin, Burkina Faso, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Mauritania, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo)",West Africa EPA
+Nicaragua,"Central America (Honduras, Nicaragua, Panama, Costa Rica, El Salvador, Guatemala)",Central America
+Panama,"Central America (Honduras, Nicaragua, Panama, Costa Rica, El Salvador, Guatemala)",Central America
+Costa Rica,"Central America (Honduras, Nicaragua, Panama, Costa Rica, El Salvador, Guatemala)",Central America
+El Salvador,"Central America (Honduras, Nicaragua, Panama, Costa Rica, El Salvador, Guatemala)",Central America
+Honduras,"Central America (Honduras, Nicaragua, Panama, Costa Rica, El Salvador, Guatemala)",Central America
+Guatemala,"Central America (Honduras, Nicaragua, Panama, Costa Rica, El Salvador, Guatemala)",Central America
+Antigua & Barbuda,"CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+Bahamas,"CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+Barbados,"CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+Belize,"CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+Dominica,"CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+Dominican Rep.,"CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+Grenada,"CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+Guyana,"CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+Haiti,"CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+Jamaica,"CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+St Lucia,"CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+St Vincent,"CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+"St Kitts, Nevis","CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+Surinam,"CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+Trinidada & Tobago,"CARIFORUM States - Caribbean (Antigua and Berbuda, the Bahamas, Barbados, Belize, Dominica, the Dominican Republic, Grenada, Guyana, Haiti, Jamaica, Saint Lucia, Saint Vincent and the Granadines, Saint Kitts and Nevis, Suriname, and Trinidad and Tobago)",CARIFORUM
+Burundi,"East African Community (Burundi, Rwanda, Tanzania, Uganda, Kenya)",East African Community
+Rwanda,"East African Community (Burundi, Rwanda, Tanzania, Uganda, Kenya)",East African Community
+Tanzania,"East African Community (Burundi, Rwanda, Tanzania, Uganda, Kenya)",East African Community
+Uganda,"East African Community (Burundi, Rwanda, Tanzania, Uganda, Kenya)",East African Community
+Kenya,"East African Community (Burundi, Rwanda, Tanzania, Uganda, Kenya)",East African Community
+Papua New Guinea,Pacific (Papua New Guinea and Fiji),Pacific
+Fiji,Pacific (Papua New Guinea and Fiji),Pacific
+Djibouti,"East and Southern Africa (ESA) (Dijbouti, Eritrea, Ethiopia, Sudan, Malawi, Zambia, Zimbabwe, Comoros, Mauritius, Madagascar, Seychelles)",East and Southern Africa
+Eritrea,"East and Southern Africa (ESA) (Dijbouti, Eritrea, Ethiopia, Sudan, Malawi, Zambia, Zimbabwe, Comoros, Mauritius, Madagascar, Seychelles)",East and Southern Africa
+Ethiopia,"East and Southern Africa (ESA) (Dijbouti, Eritrea, Ethiopia, Sudan, Malawi, Zambia, Zimbabwe, Comoros, Mauritius, Madagascar, Seychelles)",East and Southern Africa
+Sudan,"East and Southern Africa (ESA) (Dijbouti, Eritrea, Ethiopia, Sudan, Malawi, Zambia, Zimbabwe, Comoros, Mauritius, Madagascar, Seychelles)",East and Southern Africa
+Malawi,"East and Southern Africa (ESA) (Dijbouti, Eritrea, Ethiopia, Sudan, Malawi, Zambia, Zimbabwe, Comoros, Mauritius, Madagascar, Seychelles)",East and Southern Africa
+Zambia,"East and Southern Africa (ESA) (Dijbouti, Eritrea, Ethiopia, Sudan, Malawi, Zambia, Zimbabwe, Comoros, Mauritius, Madagascar, Seychelles)",East and Southern Africa
+Zimbabwe,"East and Southern Africa (ESA) (Dijbouti, Eritrea, Ethiopia, Sudan, Malawi, Zambia, Zimbabwe, Comoros, Mauritius, Madagascar, Seychelles)",East and Southern Africa
+Comoros,"East and Southern Africa (ESA) (Dijbouti, Eritrea, Ethiopia, Sudan, Malawi, Zambia, Zimbabwe, Comoros, Mauritius, Madagascar, Seychelles)",East and Southern Africa
+Mauritius,"East and Southern Africa (ESA) (Dijbouti, Eritrea, Ethiopia, Sudan, Malawi, Zambia, Zimbabwe, Comoros, Mauritius, Madagascar, Seychelles)",East and Southern Africa
+Madagascar,"East and Southern Africa (ESA) (Dijbouti, Eritrea, Ethiopia, Sudan, Malawi, Zambia, Zimbabwe, Comoros, Mauritius, Madagascar, Seychelles)",East and Southern Africa
+Seychelles,"East and Southern Africa (ESA) (Dijbouti, Eritrea, Ethiopia, Sudan, Malawi, Zambia, Zimbabwe, Comoros, Mauritius, Madagascar, Seychelles)",East and Southern Africa
+Peru,"Andean (Peru, Columbia and Ecuador)",Andean
+Colombia,"Andean (Peru, Columbia and Ecuador)",Andean
+Ecuador,"Andean (Peru, Columbia and Ecuador)",Andean
+Norway,"EEA-only countries (Norway, Iceland and Liechtenstein)",EEA-only countries
+Iceland,"EEA-only countries (Norway, Iceland and Liechtenstein)",EEA-only countries
+Liechtenstein,"EEA-only countries (Norway, Iceland and Liechtenstein)",EEA-only countries
